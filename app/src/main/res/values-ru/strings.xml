@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VK кейс</string>
+    <string name="button_chat">Кнопка чата</string>
+    <string name="button_members">Кнопка участников</string>
+    <string name="button_member_tiles">Кнопка сетки участников</string>
+    <string name="button_videocam">Кнопка видеокамеры</string>
+    <string name="round_minimize">Round minimize</string>
+    <string name="button_mic">Кнопка микрофона</string>
+    <string name="button_waving_hand">Кнопка махающей руки</string>
+    <string name="button_call_end">Кнопка завершения звонка</string>
+    <string name="expand_more">Больше</string>
+    <string name="your_avatar">Ваш аватар</string>
+    <string name="member_1_avatar">Member 1 avatar</string>
+    <string name="circle_for_videocam">Circle for videocam</string>
+    <string name="you">Вы</string>
+    <string name="hello">Привет</string>
+    <string name="phone_long_contact_for_test_and_test_again_again_again">Phone Long Contact For Test And Test Again Again Again</string>
+    <string name="icon_videocam">Icon videocam</string>
+    <string name="icon_mic">Icon mic</string>
+    <string name="icon_waving_hand">Icon waving hand</string>
+    <string name="icon_call_end">Icon call end</string>
+    <string name="circle_avatar_s_member">Circle avatar\'s member</string>
+</resources>
